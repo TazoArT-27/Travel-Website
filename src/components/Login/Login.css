@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.login-form{
+    background-color: #fff;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    max-width: 600px;
+}
+.text{
+    font-family: 'Roboto', sans-serif!important;
+}
+.button{
+    background-color: white;
+    cursor:pointer;
+    outline:none;
+    border: none;
+    color: #fbbc04;
+}
+.button:focus{
+    outline: 0;
+}
+.center{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}

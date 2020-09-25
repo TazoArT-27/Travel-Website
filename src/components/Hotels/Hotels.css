@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:ital@1&family=Fjalla+One&family=Montserrat&family=Poppins&display=swap');
+.information-part .details h4 {
+	font-weight: 500;
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+}
+
+.details{
+	font-size: 16px;
+	color: grey;
+	margin-bottom: 10px;
+}
+.ratings{
+    color: black;
+}
+.rating-digit{
+    font-family: 'Montserrat', sans-serif;
+}

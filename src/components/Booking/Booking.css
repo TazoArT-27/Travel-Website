@@ -1,0 +1,23 @@
+.bookingForm {
+	background: #ffffff;
+	border-radius: 5px;
+	padding: 25px;
+}
+
+.bookingForm .form-control {
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	background: #f2f2f2;
+	border-radius: 5px;
+	border: none;
+	height: 60px;
+}
+
+.bookingForm .btn {
+    width: 100%;
+	height: 60px;
+	margin-top: 30px;
+}
+
